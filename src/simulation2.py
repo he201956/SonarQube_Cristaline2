@@ -1,4 +1,4 @@
-"""
+
 def generate_user_report(users):
     report = []
 
@@ -78,4 +78,3 @@ def generate_user_report_backup(users):
         "average": average_score
     }
 
-"""
